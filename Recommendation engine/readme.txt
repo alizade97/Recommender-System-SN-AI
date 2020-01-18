@@ -1,14 +1,14 @@
-****Interest Matching in Social Network based on AI*******
+**** Interest Matching in Social Network based on AI *******
 
 Recommnedation Engine configuration and installation
 
 
-###PREREQUISITES###
+### PREREQUISITES ###
 --- Python version bigger 3.8.0
 --- Python Package Manager such as Ananconda or pip package manager
 --- code editor can be used
 
-###INSTALLATION###
+### INSTALLATION ###
 
 Step 1. Python installation: https://www.python.org/downloads/windows/
 	It will be set as environment variable when installed
